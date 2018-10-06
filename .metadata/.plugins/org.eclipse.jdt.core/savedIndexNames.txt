@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/jamie/Documents/2018Fall/GAME2014_AndroidGameDevelopment/02_assignments/AS1_101088322_JamieCCHuang/.metadata/.plugins/org.eclipse.jdt.core
+3831564874.index
+3318541164.index
